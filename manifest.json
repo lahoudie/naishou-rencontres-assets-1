@@ -3491,6 +3491,21 @@
       "url": "https://lahoudie.github.io/naishou-rencontres-assets-1/objects/8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122.webp",
       "sha256": "8629c579c22c1ae84964b2f70972e6fb1dcb166473d34a57d0e1329358775122",
       "bytes": 64424
+    },
+    "assets/encounters/catalogue/8e9cd637eac3a99be72692344c45547ea862499dd8772b720d58e3b11e171f10.webp": {
+      "url": "https://lahoudie.github.io/naishou-rencontres-assets-1/objects/8e9cd637eac3a99be72692344c45547ea862499dd8772b720d58e3b11e171f10.webp",
+      "sha256": "8e9cd637eac3a99be72692344c45547ea862499dd8772b720d58e3b11e171f10",
+      "bytes": 108056
+    },
+    "assets/encounters/catalogue/0a35508785358ac127c27436f258afcfbbef05444b195d11257e4180eb16e561.webp": {
+      "url": "https://lahoudie.github.io/naishou-rencontres-assets-1/objects/0a35508785358ac127c27436f258afcfbbef05444b195d11257e4180eb16e561.webp",
+      "sha256": "0a35508785358ac127c27436f258afcfbbef05444b195d11257e4180eb16e561",
+      "bytes": 88370
+    },
+    "assets/encounters/catalogue/2c39d1a197be3e68a6ae4b860193b6ff9e8acdc600302da9a96e698f9ede405a.webp": {
+      "url": "https://lahoudie.github.io/naishou-rencontres-assets-1/objects/2c39d1a197be3e68a6ae4b860193b6ff9e8acdc600302da9a96e698f9ede405a.webp",
+      "sha256": "2c39d1a197be3e68a6ae4b860193b6ff9e8acdc600302da9a96e698f9ede405a",
+      "bytes": 103672
     }
   }
 }
